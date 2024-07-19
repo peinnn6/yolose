@@ -19,6 +19,6 @@ __all__ = [
     'CSPLayerWithTwoConv', 'DarknetBottleneck', 'BiFusion',
     # yolo_ms add
     'MSBlock',
-    # zyy add
+    # yolo-se add
     'SELANBlock', 'FFEBlock', 'BFEBlock',
 ]
